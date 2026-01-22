@@ -1,0 +1,13 @@
+# Sorting Algorithm Benchmark Results
+
+## Basic Sorts (Week 1)
+| Algorithm      | 500 Elements | 1000 Elements |
+|----------------|--------------|---------------|
+| Bubble Sort    | 0.00520s     | 0.02154s      |
+| Selection Sort | 0.00206s     | 0.00883s      |
+| Insertion Sort | 0.00209s     | 0.00899s      |
+
+## Observations
+- **Bubble Sort** was the slowest, taking significantly longer as the list size doubled.
+- **Selection and Insertion** performed similarly on random data.
+- All three algorithms show **O(n²)** growth (when the input size doubled, the time increased by roughly 4x).
