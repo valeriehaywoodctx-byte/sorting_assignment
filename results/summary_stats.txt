@@ -1,0 +1,24 @@
+--- Timing 100 elements (3 repeats) ---
+bubble_sort    : 0.00019 seconds (avg)
+selection_sort : 0.00009 seconds (avg)
+insertion_sort : 0.00009 seconds (avg)
+
+--- Timing 500 elements (3 repeats) ---
+bubble_sort    : 0.00522 seconds (avg)
+selection_sort : 0.00222 seconds (avg)
+insertion_sort : 0.00238 seconds (avg)
+
+--- Timing 1000 elements (3 repeats) ---
+bubble_sort    : 0.02239 seconds (avg)
+selection_sort : 0.00897 seconds (avg)
+insertion_sort : 0.00921 seconds (avg)
+
+--- Timing 5000 elements (3 repeats) ---
+bubble_sort    : 0.71912 seconds (avg)
+selection_sort : 0.24247 seconds (avg)
+insertion_sort : 0.25816 seconds (avg)
+
+--- Timing 10000 elements (3 repeats) ---
+bubble_sort    : 2.43765 seconds (avg)
+selection_sort : 0.92293 seconds (avg)
+insertion_sort : 0.95473 seconds (avg)
